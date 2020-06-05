@@ -1,4 +1,4 @@
-# Machine-Learning-2020
+# Code Samples
 Coding Practice, apologies for not uploading the data.
 
 Some individual project scripts are not heavily commented yet, but are to be updated.
